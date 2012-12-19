@@ -1,0 +1,25 @@
+body, html {
+  margin: 0;
+  padding: 0;
+}
+
+.main-cont {
+  width: 920px;
+  margin: 0 auto;
+}
+
+.navigation {
+  padding: 20px;
+  background-color: #e28964;
+  position: fixed;
+  left: 20px;
+  top: 40px;
+}
+
+.section {
+  padding: 20px;
+  background-color: #99cf50;
+  min-height: 300px;
+  margin: 0 auto 40px;
+  border: 1px solid #000;
+}
