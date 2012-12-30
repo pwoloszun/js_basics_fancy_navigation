@@ -16,10 +16,39 @@ body, html {
   top: 40px;
 }
 
+.navigation > div {
+  margin: 8px auto;
+}
+
 .section {
   padding: 20px;
   background-color: #99cf50;
   min-height: 300px;
   margin: 0 auto 40px;
   border: 1px solid #000;
+}
+
+#section1 {
+  min-height: 430px;
+  background-color: #e28964;
+}
+
+#section2 {
+  min-height: 500px;
+  background-color: #7fffd4;
+}
+
+#section3 {
+  min-height: 780px;
+  background-color: #f5f5dc;
+}
+
+#section4 {
+  min-height: 610px;
+  background-color: #a52a2a;
+}
+
+#section5 {
+  min-height: 550px;
+  background-color: #5f9ea0;
 }
